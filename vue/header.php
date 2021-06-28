@@ -7,11 +7,11 @@
 
     <nav>
         <ul>
-            <li><a href="/site_futur/vue/index.php">Accueil</a></li>
-            <li><a href="/site_futur/blog.php">Blog</a></li>
-            <li><a href="/site_futur/membres.php">Membres</a></li>
-            <li><a href="/site_futur/vue/cv_site.php">CV</a></li>
-            <li><a href="/site_futur/vue/contact.php">Contact</a></li>
+            <li><a href="../vue/index.php">Accueil</a></li>
+            <li><a href="../blog.php">Blog</a></li>
+            <li><a href="../membres.php">Membres</a></li>
+            <li><a href="../vue/cv_site.php">CV</a></li>
+            <li><a href="../vue/contact.php">Contact</a></li>
         </ul>
     </nav>
 </header>
