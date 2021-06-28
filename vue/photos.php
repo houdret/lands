@@ -49,7 +49,7 @@
             <ul>
                 <li>
                     Page d'accueil du site
-                    <a href="/site_futur/index.php">Mon futur site</a>
+                    <a href="../index.php">Mon futur site</a>
                     grace à l'aide
                     <a href="http://www.alsacreations.com" target="_blank">Alsacréations.com</a>
                     et
