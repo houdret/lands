@@ -1,0 +1,5 @@
+﻿nav, section, #mes_amis ul, #tweet, #mes_photos, #mes_amis, article, aside, .bouton_rouge, nav li, #logo, header h1, #titre_principal
+{
+    display: inline;
+    zoom: 1;
+}

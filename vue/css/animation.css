@@ -1,0 +1,61 @@
+/* 
+    Document   : animation
+    Created on : 05-août-2012, 21:30:08
+    Author     : houdret
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body
+{
+    background-color: #181818;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    width: 900px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+	text-align: left;
+    color: white;
+}
+#wrapper{
+    width: 600px;
+    -webkit-perspective-origin: 800;
+    margin-top: 150px;
+}
+#allplan{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    -webkit-transform-style: preserve-3d;
+    -webkit-animation: Caroussel 10s infinite linear;
+}
+.plan{
+    position: absolute;
+    height: 200px;
+    width: 150px;
+    text-align: center;
+    font-size: 8em;
+    color: #FFF;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+@-webkit-keyframes Caroussel{
+    from {-webkit-tranform: rotateY(0);}
+    to { -webkit-transform: rotateY(360deg);}
+}
+#allplan > .p1{ -webkit-transform: translateZ(200px);}
+#allplan > .p2{ -webkit-transform: rotateY(45deg) translateZ(200px);}
+#allplan > .p3{ -webkit-transform: rotateY(90deg) translateZ(200px);}
+#allplan > .p4{ -webkit-transform: rotateY(135deg) translateZ(200px);}
+#allplan > .p5{ -webkit-transform: rotateY(180deg) translateZ(200px);}
+#allplan > .p6{ -webkit-transform: rotateY(225deg) translateZ(200px);}
+#allplan > .p7{ -webkit-transform: rotateY(270deg) translateZ(200px);}
+#allplan > .p8{ -webkit-transform: rotateY(315deg) translateZ(200px);}
+

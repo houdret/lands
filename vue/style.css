@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+h1
+/* Utilisation de la police qu'on vient de définir sur les titres */
+
+{
+    font-family: Georgia, "Times New Roman", Verdana, Arial, Helvetica, sans-serif, Times, serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h1,
+em {
+    color: blue;
+    /*on met le titre et une partie sélectionner en bleu*/
+}
+
+.introduction {
+    color: red;
+}
+
+#salutation {
+    color: #5b5ba3;
+}
+
+a[title="Réservez aux débutants"] {
+    text-decoration: none;
+}
+
+a:hover
+/* Apparence au survol des liens */
+
+{
+    text-decoration: underline;
+    color: green;
+}
+
+a:visited {
+    text-decoration: none;
+    color: red;
+}
+
+.signature {
+    text-align: right;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.imageflottante {
+    float: left;
+    margin-right: 15px;
+}
+
+.dessous {
+    clear: both;
+}
+
+.commentaire {
+    margin-right: 25px;
+    text-align: right;
+    float: right;
+}
+
+.article {
+    float: right;
+}
+
+body {
+    /*background:url(images/plage.JPG) fixed no-repeat top 25px right 25px;	*/
+    border: ridge 2px #00FF80;
+    width: 75%;
+    max-height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ombre {
+    box-shadow: 6px 6px 6px blue;
+    border: solid 2px;
+    border-radius: 10px;
+    margin-right: 25px;
+    padding-left: 5px;
+}
+
+section {
+    margin-left: 170px;
+}
+
+p:hover {
+    font-size: 1.3em;
+}
+
+p {
+    width: 50%;
+}
+
+nav {
+    float: left;
+    border: 1px solid blue;
+    width: 150px;
+}
