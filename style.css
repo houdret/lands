@@ -20,15 +20,15 @@ height: 1000px;
 padding-top:100px;
 } 
 #slide1 {
-   background: url(images/1.jpg) center 0 no-repeat fixed;
+   background: url(../images/1.jpg) center 0 no-repeat fixed;
 }
 
 #slide2 {
-   background: url(images/2.jpg) center 0 no-repeat fixed;
+   background: url(../images/2.jpg) center 0 no-repeat fixed;
 }
 
 #slide3 {
-   background: url(images/3.jpg) center 0 no-repeat fixed;
+   background: url(../images/3.jpg) center 0 no-repeat fixed;
 }
 /* Gestion du contenu */
 .slide_inside {
