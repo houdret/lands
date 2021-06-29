@@ -1,8 +1,8 @@
 <footer>
     <div id="tweet">
-        <h1>Mon dernier voyage</h1>
+        <h1>Mon voyage au Sénégal</h1>
         <p>Vivement que j'y retourne</p>
-        <p>J'y suis tombé amoureux surtout d'une belle sénégalaise lol!</p>
+        <p>J'y suis tombé amoureux pays très accueillant</p>
     </div>
     <div id="mes_photos">
         <h1>Mes photos</h1>
