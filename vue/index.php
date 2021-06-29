@@ -36,7 +36,9 @@
 					<p>Ensuite cause de séparation et sans charge j'ai assez voyagé dans différent pays les îles Espagnoles Ibisa, Majorca, Ténérife, j'ai aussi voulu joué au bronzés à Djerba la douce dans les cases</p>
 					<P>Puis en bonne compagnies à Corfou en Grèce, en Turquie</p>
 					<p>Suite à des différents suis allez au Cameroun pour trouver l'âme soeur, mais pas de chance c'était plutôt pour les papier qu'elle était intéressée, donc je suis retourné vivre pendant 5 ans à Ténérife</p>
-					<p>Et mon dernier voyage fut l'année passée au Sénégal et j'en ai que de bon souvenir!</p>
+					<p>Puis l'année d'après fut au Sénégal et j'en ai que de bon souvenir!</p>
+					<p>Après j'ai été vivre pendant 5 ans à Ténérife</p>
+					<p>De retour en Belgique je suis partie à Sousse en bonne compagnie et en Crête également en très bonne compagnie</p>
                 </article>
                 <aside>
                     <h1>À propos de l'auteur</h1>
