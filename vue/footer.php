@@ -2,7 +2,7 @@
     <div id="tweet">
         <h1>Mon voyage au Sénégal</h1>
         <p>Vivement que j'y retourne</p>
-        <p>J'y suis tombé amoureux pays très accueillant</p>
+        <p>J'y suis tombé amoureux du pays très accueillant</p>
     </div>
     <div id="mes_photos">
         <h1>Mes photos</h1>
